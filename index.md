@@ -44,5 +44,6 @@ The workshop is chaired by:
 - Benjamin Kaminski, Saarland University and University College London
 - Christoph Matheja, Technical University of Denmark
 
-
-
+# Previous Editions
+- [VeriProP 2022](https://veriprop.github.io/2022/)
+- [VeriProP 2021](https://veriprop.github.io/2021/)
