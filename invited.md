@@ -2,6 +2,14 @@
 
 [back to program](index.md)
 
-TBA
+Christel Baier (TU Dresden): Probability-raising Causality in Markov Decision Processes
+
+Sam Staton (University of Oxford): TBA
+
+Djordje Zikelic (ISTA): TBA
+
+
+
+
 
 [back to program](index.md)
