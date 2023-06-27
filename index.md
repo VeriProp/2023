@@ -8,11 +8,34 @@ This workshop will provide a forum for research on the automated verification of
 
 # Invited Speakers
 
+- Sam Staton (University of Oxford): Semantics and types for non-parametric probabilistic programming
 - Christel Baier (TU Dresden): Probability-raising Causality in Markov Decision Processes
+- Djordje Zikelic (ISTA): From Probabilistic Program Analysis to Learning-based Stochastic Control with Martingales
+- Raphaëlle Crubillé (CNRS / Aix-Marseille Université): TBA
 
-- Sam Staton (University of Oxford): TBA
 
-- Djordje Zikelic (ISTA): TBA
+# Program
+| Time  | Author(s)                                                                                                   | Title                                                                                              |
+|-------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| 9:00  |                                                                                                             | Opening                                                                                            |
+| **9:15**  | **Sam Staton**                                                                                                  | **Semantics and types for non-parametric probabilistic programming**                                   |
+| 10:00 | Nikolai Käfer                                                                                               | Semantics for Cyclic Bayesian Networks                                                             |
+| 10:15 | Mateo Torres-Ruiz, Robin Piedeleu, Alexandra Silva and Fabio Zanasi                                         | On Iteration in Discrete Probabilistic Programming                                                 |
+| 10:30 |                                                                                                             | Coffee break                                                                                       |
+| **11:00** | **Đorđe Žikelić**                                                                                               | **From Probabilistic Program Analysis to Learning-based Stochastic Control with Martingales**          |
+| 11:45 | Ichiro Hasuo                                                                                                | Compositionality in Probabilistic Verification, Statistical Inference, and Stochastic Optimization |
+| 12:00 | Milan Ceska, Roman Andriushchenko and Sebastian Junges                                                      | PAYNT: A Tool for Inductive Synthesis of Probabilistic Programs                                    |
+| 12:15 | Edward Kim, Jay Shenoy, Sebastian Junges, Daniel Fremont, Alberto Sangiovanni-Vincentelli and Sanjit Seshia | Querying Labelled Data with Probabilistic Programs for Sim-to-Real Validation                      |
+| 12:30 |                                                                                                             | Lunch break                                                                                        |
+| **14:00** | **Christel Baier**                                                                                              | **Probability-raising Causality in Markov Decision Processes**                                         |
+| 14:45 | Eric Atkinson, Ellie Y. Cheng, Guillaume Baudart, Louis Mandel and Michael Carbin                           | Verifying Performance Properties of Probabilistic Inference                                        |
+| 15:00 | William Smith and Fredrik Dahlqvist                                                                         | Construction and verification of infinite-dimensional samplers                                     |
+| 15:15 | Tobias Gürtler and Benjamin Kaminski                                                                        | Belief Programming in Probabilistic Environments                                                   |
+| 15:30 |                                                                                                             | Coffee break                                                                                       |
+| **16:00** | **Raphaëlle Crubillé**                                                                                          | **TBA**                                                                                                |
+| 16:45 | Alejandro Aguirre, Christoph Matheja and Philipp Schröer                                                    | Towards Automated Verification of Expected Sensitivity in Caesar                                   |
+| 17:00 | Simon Oddershede Gregersen, Alejandro Aguirre, Philipp G. Haselwarter, Joseph Tassarotti and  Lars Birkedal | Asynchronous Probabilistic Couplings in Higher-Order Separation Logic                              |
+| 17:15 |                                                                                                             | Closing                                                                                            |
 
 # Call for Presentations
 
